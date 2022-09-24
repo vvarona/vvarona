@@ -1,8 +1,6 @@
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# <div align="center"> <h1> Hello, world! ✨ </h1> </div>  
   
 
 ### <div align="center">I'm Vicky, a junior web developer & graphic designer 👩‍💻👩‍🎨</div>  
